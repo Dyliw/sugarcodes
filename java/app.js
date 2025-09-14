@@ -33,12 +33,12 @@ function mostrarPagina(index) {
   "Estaba equivocada",
   "Feliz cumpleaños 😭, has crecido tanto",
   "Pero a quién son las gracias por permitirte vivir rompiendote huesos?",
-  "Soy una mala stalker 😭.",
+  "100% Rial 😭.",
   "Muchas cosas las exageré 🗣️.",
-  "Primero desaparece, de preferencia",
-  "Mentiraaaa, hay más razones, creo",
+  "Hoy ando dando órganos gratis, de hecho",
+  "Mentiraaaa, yo sé que vamos a hablar hasta que me muera",
   "Última página... tal vez",
-  "ES QUE NO SÉ DIBUJAR",
+  "Para la próxima te llevo a un mami's club",
   "No sé si te o dije, pero te quiero :3",
   "Ya aprendí, esto te lo pasaré para que solo lo puedas ver ohm",
   "Tengo hambre we 🗣️",
@@ -178,8 +178,8 @@ itemHola.addEventListener('mouseleave', () => {
   }
 
   
-const startDate = new Date(2025, 5, 7); // 7 de julio de 2025
-const endDate = new Date(2026, 6, 7); // 7 de julio de 2026
+const startDate = new Date(2025, 8, 14); // 7 de julio de 2025
+const endDate = new Date(2026, 8, 14); // 7 de julio de 2026
 
 const dailyMotivations = {
     "01-01": "Vuelve a comenzar el año, siempre tengo la costumbre de tomar una foto de una puerta que me gusta al principio de años, quizá también tengas esas pequeñas rutinas que sólo sigues al iniciar el año. Espero que las tengas wuu, si las tienes, dimelas porque quiero conocer a la nueva persona de este año.",
@@ -380,7 +380,7 @@ const dailyMotivations = {
     "07-13": "El gordo no te conoce, pero te va a extrañar _ _, deja que la wawita viva sin esa tristeza, por favor. POR EL GORDO VRO, ¿qué importa Charlote? Tú supiste de la existencia del gordo primero que la de Charlote TT.",
     "07-14": "Organizar un funeral es complejo si es que piensas tener uno, por la cordura de tu mami, no te mueras hasta que puedas pagarlo por tu cuenta y arreglar todo, en méxico se da pan y café, entonces, como recomendación vaya, antes de que pienses en dejar de respirar H2O, rífate unos 2123 panes y haz unas 90 tazas de café, te lo encargo.",
     "07-15": "Yo siempre busco cosas raras en el internet profundo y no me preocupo por borrar el historial y me da paja ponerlo para que se borre en automático. Entonces, si te mueres, si es que no lo tienes para que se borre automáticamente, alguien podría ver lo que buscaste, quizá quieran buscar fotos tuyas en tu celular y se encuentre 16gb de porno 🗣️, só, más que un motivo para vivir, es un motivo para que borres todo lo cuestionable ohmm.",
-    "07-16": "Daniel, no te mueras, es advertencia. Si lo haces, te buscaré, encontraré el fb de tu madre y te dibujaré como furro embarazado, tú sabrás.",
+    "07-16": "Lael, no te mueras, es advertencia. Si lo haces, te buscaré, encontraré el fb de tu madre y te dibujaré como furro embarazado, tú sabrás.",
     "07-17": "No me digas que te quieres matar sabiendo que existes en el mismo planeta que sonichu, por dios enfermo, sonicho debe de ser tú religión, tu padre, tu abuelo y todo, rezale porque te permite habitar en el mismo planeta que él.",
     "07-18": "Tienes una racha que mantener, está bien que dejes que se acabe reportando mi cuenta, pero boe, más aferrado, si llegamos aqui, prometo comprometerme con la causa ohmm. (esto lo hice hace rato largo, spoiler: no llegamos hasta aquí JAJSJASJ, lo dejaré porque no quiero pensar en otro motivo).",
     "07-19": "Voy a estar rezando para que no leas todo esto completo, muchas son muy meh. Pero bueno, para que mis súplicas se escuchen. No perdamos la fé ohmm.",
@@ -639,3 +639,4 @@ document.getElementById("next-month").addEventListener("click", () => {
 });
 
 renderCalendar(currentMonth, currentYear, currentDay);
+
