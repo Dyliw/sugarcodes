@@ -371,7 +371,7 @@ const dailyMotivations = {
     "07-04": "Hoy es un buen día para cambiar algo en ti.",
     "07-05": "Este motivo no es como los otros. No está aquí para explicar, sino para esperar.",
     "07-06": "Mañana de nuevo será tu cumpleaños y el día del chocolate, espera para comer el último chocolate en el día del chocolate, ahre.",
-    "07-07": "Ya son 19 años de tu existencia, personalmente no me gusta el número 19 porque es impar y se mira feo. Aquí diré mi motivo personal para que no te mueras; SI TE MUERES EN UNA EDAD TAN HORRIBLE, tu existencia será como que de perro que murió de viejo, y según yo, tú no eres un perro ni estás viejo eww. Además, es un día muy lindo como para decidir irte tan pronto, vro, espera al menos a que pase tu cumplaños bruh.",
+    "07-07": "Pessoa firmaba cartas de amor a sí mismo con nombres falsos JAJSJAS. Haz algo similar si sientes odio hacia tí, escribe un poema sobre algo que no te gusta de tu y firmalo con otro nombre, te hatean mucho TT..",
     "07-08": "Sabias que el manatí es un animal que le mayor parte de los zoo's dicen que está prohibirlo abrazarlo porque si vos, lo abrazás al menos una vez, él se pone triste porque te extraña por el resto de su vida.",
     "07-09": "Hay un juego que se llama 'sex with hittler', antes de que pienses irte, quédate hasta después de jugar esa joya, te dará motivos de sobra para existir.",
     "07-10": "Te iba a poner una que fuera para que nombraran a una enfermedad mental o síndrome con tu nombre y que la rae lo aprueve. Pero ya hay una, lol.",
@@ -440,7 +440,7 @@ const dailyMotivations = {
     "09-11": "El sol no te juzga, la luna tampoco. Tú tampoco deberías hacerlo hoy. Si dos astros no te critícarían, tú como ser humano que depende de ellos, por qué lo harías? Si lo haces, no seas duro kya, porfas.",
     "09-12": "Preguntale a chat gpt cuál género de música de música preferírian los aliens y discute sobre el por qué, sólo para ser conocedor vya, después de eso, puedes respirar en paz un día más.",
     "09-13": "Si los tardígrados pueden sobrevivir al vacío del espacio.",
-    "09-14": "Pessoa firmaba cartas de amor a sí mismo con nombres falsos JAJSJAS. Haz algo similar si sientes odio hacia tí, escribe un poema sobre algo que no te gusta de tu y firmalo con otro nombre, te hatean mucho TT.",
+    "09-14": "Ya son 17 años de tu existencia, personalmente no me gusta el número 17 porque es impar y se mira feo. Aquí diré mi motivo personal para que no te mueras; SI TE MUERES EN UNA EDAD TAN HORRIBLE, tu existencia será como que de perro que murió de viejo, y según yo, tú no eres un perro ni estás viejo eww. Además, es un día muy lindo como para decidir irte tan pronto, vro, espera al menos a que pase tu cumplaños bruh",
     "09-15": "La vida no es justa, es apenas más justa que la muerte, eso es todo..",
     "09-16": "No tienes que brillar hoy. Puedes ser una linterna sin pilas. Nadie dijo que tenías que ser útil todo el tiempo.",
     "09-17": "Si mueres, existe la posibilidad de que alguien revise tu celular... Te lo dejo caer.",
@@ -639,5 +639,6 @@ document.getElementById("next-month").addEventListener("click", () => {
 });
 
 renderCalendar(currentMonth, currentYear, currentDay);
+
 
 
