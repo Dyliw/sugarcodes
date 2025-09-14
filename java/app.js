@@ -178,7 +178,7 @@ itemHola.addEventListener('mouseleave', () => {
   }
 
   
-const startDate = new Date(2025, 8, 14); // 7 de julio de 2025
+const startDate = new Date(2025, 9, 14); // 7 de julio de 2025
 const endDate = new Date(2026, 8, 14); // 7 de julio de 2026
 
 const dailyMotivations = {
@@ -639,4 +639,5 @@ document.getElementById("next-month").addEventListener("click", () => {
 });
 
 renderCalendar(currentMonth, currentYear, currentDay);
+
 
